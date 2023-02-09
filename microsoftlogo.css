@@ -1,0 +1,32 @@
+.microsoft{
+    width: 350px;
+    margin: 140px auto;
+}
+.square_red{
+    background-color: #f3532f;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.square_green{
+    background-color: #81dc08;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.square_blue{
+    background-color: #05a6f0;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
+.square_yellow{
+    background-color: #ffba0f;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 0 10px 10px 0;
+}
